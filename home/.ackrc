@@ -1,0 +1,8 @@
+--ignore-case
+--ignore-dir=vendor
+--type-add=ruby=.haml
+--type-set=scala=.scala
+--type-set=as=.as
+--nosql
+--ignore-dir=.test_preprocessed
+--ignore-dir=.production_preprocessed
